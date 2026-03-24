@@ -11,9 +11,10 @@ To write a Python program that defines a function which accepts two values and r
 5. Call the `result` function with the user-provided values.
 
 ## 🧾 Program
-
-Add code Here
+<img width="197" height="99" alt="image" src="https://github.com/user-attachments/assets/881bdaed-509a-4455-aa1a-c1bb5c2ca237" />
 
 ## Output
+![Uploading image.png…]()
 
 ## Result
+The program to return two values modulo is successful.
