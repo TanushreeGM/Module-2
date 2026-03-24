@@ -14,7 +14,7 @@ To write a Python program that defines a function which accepts two values and r
 <img width="197" height="99" alt="image" src="https://github.com/user-attachments/assets/881bdaed-509a-4455-aa1a-c1bb5c2ca237" />
 
 ## Output
-![Uploading image.png…]()
+<img width="205" height="84" alt="image" src="https://github.com/user-attachments/assets/99dd3f07-7517-4875-b798-7aa50fa92b8d" />
 
 ## Result
 The program to return two values modulo is successful.
